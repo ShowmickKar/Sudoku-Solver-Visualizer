@@ -15,3 +15,5 @@ Created a Sudoku game in python and implemented a backtracking algorithm to solv
 - press 'r' if you want to reset the game
 - The game can be played like any regular Sudoku game. However, if you don't feel like solving and just want to see how the backtracking algorithm finds the solution, you can simply press 's' at any point and the algorithm will start doing its magic with some cool visualization
 - I hope you like it!
+
+![Alt Text](Suduko_Demo.gif)
